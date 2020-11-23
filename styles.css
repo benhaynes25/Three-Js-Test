@@ -1,0 +1,15 @@
+h1{
+ color: orange;   
+}
+
+body {
+    font-family: sans-serif;
+    overflow: hidden;
+    background-image:url(https://www.rd.com/wp-content/uploads/2019/12/shutterstock_138195971-e1575492812271-scaled.jpg);
+}
+
+.scene, canvas{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
